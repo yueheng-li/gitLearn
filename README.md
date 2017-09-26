@@ -1,6 +1,8 @@
 # gitLearn
 git 学习用repository，git操作，遇到的问题点。
 
+* [git 基础操作](https://github.com/yueheng-li/gitLearn/wiki/git-%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C)
+
 
 ## git在线学习
 http://learngitbranching.js.org/
@@ -46,3 +48,4 @@ git fetch origin
 git reset --hard origin/master
 
 ```
+
